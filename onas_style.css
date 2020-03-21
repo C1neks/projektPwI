@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.about-section{
+    padding: 50px;
+    text-align: center;
+    /* background-color: grey; */
+    color: #4d4d4d;
+}
