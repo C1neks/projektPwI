@@ -25,8 +25,8 @@ session_start();
             <ul>
                 <li class="item"><a href="indexakt.php" class="website"></a></li>
                 <li class="item"><a href="dodaj.php" class="newPost">Dodaj Ogłoszenie</a></li>
-                <li class="item"><a href="logowanie.php" class="reg">Moje konto</a></li>
-                <li class="item"><a href="logowanie.php" class="reg">Załóż konto</a></li>
+                <!-- <li class="item"><a href="logowanie.php" class="reg">Moje konto</a></li>
+                <li class="item"><a href="logowanie.php" class="reg">Załóż konto</a></li> -->
                 <li class="item" style="font-weight:bold;">
                 <?php
             echo"Zalogowany jako: ".$_SESSION['user'];
